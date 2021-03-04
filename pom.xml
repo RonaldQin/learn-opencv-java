@@ -38,11 +38,11 @@
 			<scope>system</scope>
 			<systemPath>${pom.basedir}/src/main/resources/lib.opencv/opencv-3413.jar</systemPath>
 		</dependency>
-		
+		<!-- Test in kali -->
 		<dependency>
 			<groupId>local</groupId>
 			<artifactId>opencv</artifactId>
-			<version>3.4.13</version>
+			<version>4.5.2</version>
 			<scope>system</scope>
 			<systemPath>${pom.basedir}/src/main/resources/lib.opencv/opencv-452.jar</systemPath>
 		</dependency>
