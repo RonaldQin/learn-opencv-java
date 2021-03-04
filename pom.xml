@@ -35,7 +35,7 @@
 			<artifactId>opencv</artifactId>
 			<version>3.4.13</version>
 			<scope>system</scope>
-			<systemPath>${project.basedir}\src\main\resources\lib.opencv\opencv-3413.jar</systemPath>
+			<systemPath>${project.basedir}/src/main/resources/lib.opencv/opencv-3413.jar</systemPath>
 		</dependency>
 	
 		<dependency>
