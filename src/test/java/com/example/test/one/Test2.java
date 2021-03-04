@@ -9,7 +9,7 @@ public class Test2 {
 	@Test
 	public void test1() {
 		// 加载动态库
-		System.load("/home/lace/Downloads/build/lib/libopencv_java452.so");
+		System.load("/home/lace/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/learn-opencv-java/src/main/resources/lib.opencv/kali/libopencv_java452.so");
 		Mat mat_1 = new Mat(2, 2, CvType.CV_8UC3, new Scalar(0, 0, 255));
 
 		int sz[] = { 2, 2, 2 };
